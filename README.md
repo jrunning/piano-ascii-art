@@ -3,6 +3,8 @@ piano-ascii-art
 Shows ASCII album art in pianobar. Looks terrible but for some reason I
 love it.
 
+![Screenshot](http://cl.ly/5z80/Screen_shot_2011-04-14_at_3.20.34_PM.png)
+
 
 Prerequisites
 -------------
